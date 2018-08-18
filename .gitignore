@@ -1,0 +1,65 @@
+########################################
+#                                      #
+#    GITIGNORE FILE FOR REPOSITORY:    #
+#                 CDML                 #
+#                                      #
+# This document is split into sections #
+# of file extentions; from most        #
+# relevant, to least relevant. Below   #
+# is the .gitignore file for the Git   #
+# repository: CDML.                    #
+#                                      #
+# Please read the license file in this #
+# repository before you use this       #
+# library in your own work. Thank you! #
+#                                      #
+########################################
+
+########################################
+#           EXECUTABLE FILES           #
+########################################
+
+*.exe
+*.out
+
+########################################
+#             OBJECT FILES             #
+########################################
+
+*.o
+*.so
+
+########################################
+#             IMAGE FILES              #
+########################################
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+########################################
+#             AUDIO FILES              #
+########################################
+
+*.wav
+*.mp3
+
+########################################
+#              FONT FILES              #
+########################################
+
+*.ttf
+*.otf
+*.woff
+
+########################################
+#                                      #
+#    Copyright (c) 2018 by CodeDojo    #
+#  and/or it's individual developers.  #
+#          All rights reserved.        #
+#                                      #
+#   Licensed under the MIT License.    #
+#                                      #
+########################################
